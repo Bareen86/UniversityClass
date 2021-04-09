@@ -8,11 +8,10 @@ namespace UniversityClass
 {
     class Student
     {
-        public Guid id;
-        public string firstName;
-        public string lastName;
-        public string middleName;
-        public int age;
-        public string group;
+        public string FirstName;
+        public string LastName;
+        public string MiddleName;
+        public int Age;
+        public string Group;
     }
 }
